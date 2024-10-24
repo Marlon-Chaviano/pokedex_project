@@ -2,8 +2,93 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  color-scheme: dark;
-  color: CanvasText;
-  background-color: Canvas;
+
+.normal {
+  background: #7B8B5E; /* Un tono más oscuro */
+  color: #A8A77A;
+}
+
+.fire {
+  background: #C76A2D; /* Un tono más oscuro */
+  color: #EE8130;
+}
+
+.water {
+  background: #4E78B1; /* Un tono más oscuro */
+  color: #6390F0;
+}
+
+.electric {
+  background: #D1B72C; /* Un tono más oscuro */
+  color: #F7D02C;
+}
+
+.grass {
+  background: #4d7f30; /* Proporcionado */
+  color: #7AC74C;
+}
+
+.ice {
+  background: #7DAFAD; /* Un tono más oscuro */
+  color: #96D9D6;
+}
+
+.fighting {
+  background: #9B2B26; /* Un tono más oscuro */
+  color: #C22E28;
+}
+
+.poison {
+  background: #8A2B8F; /* Un tono más oscuro */
+  color: #A33EA1;
+}
+
+.ground {
+  background: #C6A052; /* Un tono más oscuro */
+  color: #E2BF65;
+}
+
+.flying {
+  background: #8B6DB7; /* Un tono más oscuro */
+  color: #A98FF3;
+}
+
+.psychic {
+  background: #D53C73; /* Un tono más oscuro */
+  color: #F95587;
+}
+
+.bug {
+  background: #8A9A1C; /* Un tono más oscuro */
+  color: #A6B91A;
+}
+
+.rock {
+  background: #9C7A2E; /* Un tono más oscuro */
+  color: #B6A136;
+}
+
+.ghost {
+  background: #5E4B7D; /* Un tono más oscuro */
+  color: #735797;
+}
+
+.dragon {
+  background: #5C2F7D; /* Un tono más oscuro */
+  color: #6F35FC;
+}
+
+.dark {
+  background: #5B4A3E; /* Un tono más oscuro */
+  color: #705746;
+}
+
+.steel {
+  background: #9E9EB6; /* Un tono más oscuro */
+  color: #B7B7CE;
+}
+
+.fairy {
+  background: #B66B99; /* Un tono más oscuro */
+  color: #D685AD;
 }
